@@ -20,7 +20,7 @@
 </h3>
 <div class="mt-3">
   ---
-  :woman_technologist:<h3></About Me </h3>:
+  :woman_technologist:About Me:
 <p> I'm Sadia Afrin.I am an enthusiastic backend developer from Bangladesh.</p>
   -
   - :telescope: I’m working as a  Backend Developer and contributing to backend for building web applications.
