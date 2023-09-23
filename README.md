@@ -23,14 +23,14 @@
 </div>
 <div class="mt-3">
   :woman_technologist: About Me :
-<p> I'm Sadia Afrin.As a Backend Developer, I contribute to the backend of web applications.</p>
+<p> I'm Sadia Afrin.I am an enthusiastic backend developer from Bangladesh.</p>
   -
- - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+ - :telescope: I’m working as a  Backend Developer and contributing to backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Technical
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems solving.Reading some Laravel Blog Articles from around the web.And using social meadia.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: sadia15-12189@diu.edu.bd
 </div>
 
