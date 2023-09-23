@@ -24,7 +24,7 @@
 <div class="mt-3">
   :woman_technologist: About Me :
 <p> I'm Sadia Afrin.As a Backend Developer, I contribute to the backend of web applications.</p>
-  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+   :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
