@@ -23,6 +23,7 @@
 </div>
 <div class="mt-3">
   :woman_technologist: About Me :
+  :wave:
 <p> I'm Sadia Afrin.I am an enthusiastic backend developer from Bangladesh.</p>
   
 </div>
