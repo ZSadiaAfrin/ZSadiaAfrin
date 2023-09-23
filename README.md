@@ -24,7 +24,6 @@
 <div class="mt-3">
   :woman_technologist: About Me :
   :wave:
-<p> I'm Sadia Afrin.I am an enthusiastic backend developer from Bangladesh.</p>
-  
+<p> I'm Sadia Afrin.As a Backend Developer, I contribute to the backend of web applications.</p>
 </div>
 
