@@ -33,4 +33,10 @@
 
   - :mailbox:How to reach me: sadia15-12189@diu.edu.bd
 </div>
+---
+
+:hammer_and_wrench: Languages and Tools :
+<div>
+  
+</div>
 
