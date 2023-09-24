@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges >
-  <a href="facebook.com" align="center">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
+  <a href="[facebook.com](https://www.linkedin.com/in/sadia-afrin189/)" align="center">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
   <a href="your-youtube-URL" align="center">
     <img height="28px" src="https://komarev.com/ghpvc/?username=ZSadiaAfrin&style=flat-square&color=blue" alt=""/>  </a>
 </div>
