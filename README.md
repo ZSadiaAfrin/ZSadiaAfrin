@@ -9,15 +9,15 @@
     <img height="28px" src="https://komarev.com/ghpvc/?username=ZSadiaAfrin&style=flat-square&color=blue" alt=""/>  </a>
 </div>
 <h3 align="center">
- Hi there 👋
+ Hi there 👋 I'm Sadia Afrin.
 </h3>
 <div class="mt-3">
   :woman_technologist:About Me:
-<p> I'm Sadia Afrin.I am an enthusiastic backend developer from Bangladesh.</p>
+<p> I am an enthusiastic Backend developer(Laravel) from Bangladesh.</p>
  
   - :telescope: I’m working as a  Backend Developer and contributing to backend for building web applications.
 
-  - :seedling: Exploring Technical
+  - :seedling: Now I'am learnig Vue.js.
 
   - :zap: In my free time, I solve problems solving.Reading some Laravel Blog Articles from around the web.And using social meadia.
 
