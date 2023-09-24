@@ -42,11 +42,7 @@
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"           alt="mysql" width="40" height="40"/> </a>
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"               width="40" height="40"/> </a>
   </p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadia&show_icons=true&locale=en&layout=compact" alt="sadia" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadia&show_icons=true&locale=en" alt="sadia" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadia&" alt="sadia" /></p>
 
 
 
