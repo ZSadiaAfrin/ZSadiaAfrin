@@ -3,10 +3,6 @@
 </div>
 <div id="badges >
   <a href="https://www.w3schools.com/" align="center">
-   [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "https://www.linkedin.com/in/sadia-afrin189/"
      </a>
   <a href="your-youtube-URL" align="center">
     <img height="28px" src="https://komarev.com/ghpvc/?username=ZSadiaAfrin&style=flat-square&color=blue" alt=""/>  </a>
@@ -38,6 +34,8 @@
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"           alt="mysql" width="40" height="40"/> </a>
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"               width="40" height="40"/> </a>
   </p>
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="sadia-afrin189" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/sadia-afrin189?trk=profile-badge">Sadia Afrin</a></div>
+              
 
 
 
