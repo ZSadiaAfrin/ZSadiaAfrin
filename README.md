@@ -3,7 +3,11 @@
 </div>
 <div id="badges >
   <a href="https://www.w3schools.com/" align="center">
-     link</a>
+   [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/sadia-afrin189/"
+     </a>
   <a href="your-youtube-URL" align="center">
     <img height="28px" src="https://komarev.com/ghpvc/?username=ZSadiaAfrin&style=flat-square&color=blue" alt=""/>  </a>
 </div>
