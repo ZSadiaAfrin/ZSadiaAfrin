@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges >
-  <a href="www.linkedin.com/in/sadia-afrin189/" align="center">
+  <a href="https://www.w3schools.com/" align="center">
      link</a>
   <a href="your-youtube-URL" align="center">
     <img height="28px" src="https://komarev.com/ghpvc/?username=ZSadiaAfrin&style=flat-square&color=blue" alt=""/>  </a>
